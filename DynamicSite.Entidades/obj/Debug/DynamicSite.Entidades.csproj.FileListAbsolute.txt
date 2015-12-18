@@ -1,0 +1,5 @@
+C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\bin\Debug\DynamicSite.Entidades.dll
+C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\bin\Debug\DynamicSite.Entidades.pdb
+C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.dll
+C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.pdb
+C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.csprojResolveAssemblyReference.cache
