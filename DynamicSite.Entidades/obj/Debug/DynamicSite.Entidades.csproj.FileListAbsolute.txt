@@ -3,3 +3,8 @@ C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.dll
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.pdb
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Entidades\bin\Debug\DynamicSite.Entidades.dll
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Entidades\bin\Debug\DynamicSite.Entidades.pdb
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.dll
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Entidades\obj\Debug\DynamicSite.Entidades.pdb

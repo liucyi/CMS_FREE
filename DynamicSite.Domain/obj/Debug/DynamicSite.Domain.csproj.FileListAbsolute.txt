@@ -5,3 +5,10 @@ C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Domain\obj
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Domain\bin\Debug\DynamicSite.Entidades.dll
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Domain\bin\Debug\DynamicSite.Entidades.pdb
 C:\Users\Administrador\Documents\outros\EstudoDynamicSite\DynamicSite.Domain\obj\Debug\DynamicSite.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\bin\Debug\DynamicSite.Domain.dll
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\bin\Debug\DynamicSite.Domain.pdb
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\bin\Debug\DynamicSite.Entidades.dll
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\bin\Debug\DynamicSite.Entidades.pdb
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\obj\Debug\DynamicSite.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\obj\Debug\DynamicSite.Domain.dll
+C:\Users\Administrador\Documents\GitHub\CMS_FREE\DynamicSite.Domain\obj\Debug\DynamicSite.Domain.pdb
